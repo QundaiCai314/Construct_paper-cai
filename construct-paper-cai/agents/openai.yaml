@@ -1,0 +1,4 @@
+interface:
+  display_name: "构成主义纸片科幻视觉"
+  short_description: "生成统一的构成主义纸片科幻海报、插画、封面和界面"
+  default_prompt: "Use $construct-paper-cai to create a visual in the unified Constructivist paper sci-fi collage direction."
