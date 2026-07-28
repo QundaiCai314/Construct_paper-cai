@@ -42,7 +42,7 @@ git clone https://github.com/YOUR_USERNAME/constructivist-paper-cai.git \
   ~/.codex/skills/constructivist-paper-cai
 ```
 
-Replace `YOUR_USERNAME` with the GitHub account or organization that owns the repository. Restart Codex if the skill does not appear immediately.
+Replace `qundaicai314` with the GitHub account or organization that owns the repository. Restart Codex if the skill does not appear immediately.
 
 ## Usage
 
@@ -73,4 +73,4 @@ The workflow generates the visual by default and only stops at prompt-only outpu
 - `examples/`: selected Constructivist paper sci-fi reference images
 - `MANIFEST.sha256`: SHA-256 checksums for integrity verification
 
-This repository publishes one standalone Codex skill. The included examples act as style anchors for material, palette, geometry, and small-scale readability; they should not be reproduced unchanged.
+
