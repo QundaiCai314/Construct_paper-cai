@@ -42,7 +42,6 @@ git clone https://github.com/YOUR_USERNAME/constructivist-paper-cai.git \
   ~/.codex/skills/constructivist-paper-cai
 ```
 
-Replace `QundaiCai314` with the GitHub account or organization that owns the repository. Restart Codex if the skill does not appear immediately.
 
 ## Usage
 
